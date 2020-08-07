@@ -53,6 +53,11 @@ header, section{
   top: 18px;
   left: -84px;
 }
+.net-design-2{
+  top: -81px;
+  right: 38px;
+  /*z-index: 0;*/
+}
 
 .custom-link{
   text-decoration: underline;
@@ -143,7 +148,7 @@ header, section{
 
 
 .features{
-  background: #eef4f9;
+  background: #F5F9FF;
 }
 
 .custom-container__2{
