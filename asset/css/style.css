@@ -205,26 +205,16 @@ header, section{
 }
 
 @media only screen and (max-width: 767px) {
-  .banner h2{
-    font-size: 20px;
-    text-align: center;
-  }
-  .banner p{
-    font-size: 14px;
-    text-align: center;
-    margin-top: 10px;
-  }
-
+  
   .logo{
-    margin: auto;
+    /*margin: auto;*/
     display: inline-block;
     font-size: 14px;
-    margin-top: 30px;
+    /*margin-top: 30px;*/
   }
 
-  .mobile-form h6{
-    text-align: center;
-    font-size: 14px;
+  .parent__custom-container{
+    padding:  0 
   }
 
   .custom-input{
@@ -261,33 +251,7 @@ header, section{
     margin-bottom: 10px;
   }
 
-  .how-container img{
-    width: 10%;
-  }
-  .how-container h4{
-    font-size: 14px;
-    padding: 0px 3em
-  }
-  .how-container p{
-    font-size: 10px;
-    padding: 0px 3em
-  }
-
-  .how-heading h6{
-    font-size: 10px;
-  }
-
-  .how-heading h3{
-    font-size: 16px;
-  }
-
-  .contact h5{
-    font-size: 10px;
-  }
-
-  .contact h2{
-    font-size: 16px;
-  }
+ 
 }
 
 @media only screen and (max-width: 768px) and (min-width: 575.98px)  {
